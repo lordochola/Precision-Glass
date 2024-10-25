@@ -1,0 +1,11 @@
+@charset "utf-8";
+	.Title
+{
+	background-image : url(Title.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 33px;
+	top : 163px;
+	width : 649px;
+	height : 201px;
+}

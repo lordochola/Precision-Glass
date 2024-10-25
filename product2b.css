@@ -1,0 +1,11 @@
+@charset "utf-8";
+	.product2b
+{
+	background-image : url(product2b.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : -1px;
+	top : 2040px;
+	width : 722px;
+	height : 406px;
+}

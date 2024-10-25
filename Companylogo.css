@@ -1,0 +1,11 @@
+@charset "utf-8";
+	.Companylogo
+{
+	background-image : url(Companylogo.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 33px;
+	top : 163px;
+	width : 198px;
+	height : 201px;
+}
